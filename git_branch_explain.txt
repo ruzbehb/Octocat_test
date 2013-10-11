@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Branches allow you to create seperate versions of the same project, for instance, you could have the 'master' branch and also several other branches for new features, bugs, hotfixes, etc.
